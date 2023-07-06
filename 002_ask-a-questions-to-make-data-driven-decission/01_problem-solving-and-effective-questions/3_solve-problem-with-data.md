@@ -45,7 +45,7 @@ By now you might be wondering if there is a difference between categorizing thin
    
 <br />
   
-**- finding patterns**
+# finding patterns
   1. Data analysts use data to find patterns by using historical data to understand what happened in the past and is therefore likely to happen again.
   2. Ecommerce companies use data to find patterns all the time. Data analysts look at transaction data to understand customer buying habits at certain points in time throughout the year. They may find that customers buy more canned goods right before a hurricane, or they purchase fewer cold-weather accessories like hats and gloves during warmer months. The ecommerce companies can use these insights to make sure they stock the right amount of products at these key times. Alright, you've now learned six basic problem types that data analysts typically face.
 
