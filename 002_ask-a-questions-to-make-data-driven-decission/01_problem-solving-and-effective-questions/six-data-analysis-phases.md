@@ -13,6 +13,7 @@ It’s impossible to solve a problem if you don’t know what it is. These are s
 <br/>
 
 **Questions to ask yourself in this step:** 
+
 - What are my stakeholders saying their problems are?
 - Now that I’ve identified the issues, how can I help the stakeholders resolve their questions?
 
@@ -40,7 +41,8 @@ Clean data is the best data and you will need to clean up your data to get rid o
 - Checking as much as possible for bias in the data
  <br />
  
-**Questions to ask yourself in this step: **
+**Questions to ask yourself in this step:**
+
 - What data errors or inaccuracies might get in my way of getting the best possible answer to the problem I am trying to solve?
 - How can I clean my data so the information I have is more consistent?
 
@@ -72,6 +74,7 @@ Everyone shares their results differently so be sure to summarize your results w
 
 <br />
 **Questions to ask yourself in this step:**
+
 - How can I make what I present to the stakeholders engaging and easy to understand?
 - What would help me understand this if I were the listener?
 
@@ -79,8 +82,8 @@ Everyone shares their results differently so be sure to summarize your results w
 
 ## ACT
 <br/>
-**
-Questions to ask yourself in this step:**
+**Questions to ask yourself in this step:**
+
 - How can I use the feedback I received during the share phase (step 5) to actually meet the stakeholder’s needs and expectations?
 - These six steps can help you to break the data analysis process into smaller, manageable parts, which is called structured thinking. This process involves four basic activities:
 
