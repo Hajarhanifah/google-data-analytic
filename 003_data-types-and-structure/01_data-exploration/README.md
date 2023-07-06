@@ -1,8 +1,8 @@
 ## Foundations
 
 - **Understanding data types and structures:** We all generate lots of data in our daily lives.
-1. check out how we generate data and how analysts decide which data to collect for analysis.
-2. structured and unstructured data, data types, and data formats as you start thinking about how to prepare your data for exploration.
+  1. check out how we generate data and how analysts decide which data to collect for analysis.
+  2. structured and unstructured data, data types, and data formats as you start thinking about how to prepare your data for exploration.
 - **Understanding bias, credibility, privacy, ethics, and access:**
 1. check that the data is unbiased and credible.
 2. How to identify different types of bias in data and how to ensure credibility in your data.
