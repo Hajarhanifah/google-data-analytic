@@ -97,7 +97,7 @@
 ## T
 
 - **Technical mindset:** The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
-- **Time-bound question:** A question that specifies a timeframe to be studied ![image](https://github.com/Hajarhanifah/google-data-analytic/assets/4746119/5ac85191-e3f8-4597-9b32-6677258b99d0)
+- **Time-bound question:** A question that specifies a timeframe to be studied 
 
   <br/>
    
