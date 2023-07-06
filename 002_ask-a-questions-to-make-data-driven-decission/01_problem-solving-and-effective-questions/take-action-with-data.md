@@ -49,8 +49,8 @@
      - analyze the data, wrote scripts in SQL and in R to correlate the data to the control group or the experiment group and interpret the
        data to understand, were there any changes in the behavioral indicators that we saw?
      - report on it in a way that our stakeholders could understand
-     1. we prepared reports,
-     2. dashboards and presentations,
-     3. shared that information out.
+       1. we prepared reports,
+       2. dashboards and presentations,
+       3. shared that information out.
      - Once all of our reports were complete, we saw really positive results and decided to act on it by continuing our project-based learning onboarding program.
 
