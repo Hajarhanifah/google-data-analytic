@@ -90,7 +90,9 @@ Everyone shares their results differently so be sure to summarize your results w
 - These six steps can help you to break the data analysis process into smaller, manageable parts, which is called structured thinking. This process involves four basic activities:
 
 <br />
+
 **Recognizing the current problem or situation**
+
 - Organizing available information
 - Revealing gaps and opportunities
 - Identifying your options
