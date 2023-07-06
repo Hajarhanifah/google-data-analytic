@@ -1,7 +1,21 @@
-- **Understanding data types and structures:** We all generate lots of data in our daily lives. In this part of the course, you will check out how we generate data and how analysts decide which data to collect for analysis. You’ll also learn about structured and unstructured data, data types, and data formats as you start thinking about how to prepare your data for exploration.
-- **Understanding bias, credibility, privacy, ethics, and access:** When data analysts work with data, they always check that the data is unbiased and credible. In this part of the course, you will learn how to identify different types of bias in data and how to ensure credibility in your data. You will also explore open data and the relationship between and importance of data ethics and data privacy.
-- **Databases:** Where data lives: When you are analyzing data, you will access much of the data from a database. It’s where data lives. In this part of the course, you will learn all about databases, including how to access them and extract, filter, and sort the data they contain. You will also check out metadata to discover the different types and how analysts use them.
-- **Organizing and protecting your data:** Good organization skills are a big part of most types of work, and data analytics is no different. In this part of the course, you will learn the best practices for organizing data and keeping it secure. You will also learn how analysts use file naming conventions to help them keep their work organized.
-- **Engaging in the data community (optional):** Having a strong online presence can be a big help for job seekers of all kinds. In this part of the course, you will explore how to manage your online presence. You will also discover the benefits of networking with other data analytics professionals.
-- **Completing the Course Challenge:** At the end of this course, you will be able to apply what you have learned in the Course Challenge. The Course Challenge will ask you questions about the key concepts and then will give you an opportunity to put them into practice as you go through two scenarios.
+- **Understanding data types and structures:**
+  1.  generate lots of data in our daily lives.
+  2.  check out how we generate data and how analysts decide which data to collect for analysis.
+  3.  structured and unstructured data, data types, and data formats, thinking about how to prepare your data for exploration.
+- **Understanding bias, credibility, privacy, ethics, and access:**
+  1. check that the data is unbiased and credible.
+  2. identify different types of bias in data, ensure credibility in data.
+  3. explore open data and the relationship between and importance of data ethics and data privacy.
+- **Databases:** Where data lives:
+  1. When you are analyzing data, you will access much of the data from a database.
+  2. learn all about databases, including how to access them and extract, filter, and sort the data they contain.
+  3. check out metadata to discover the different types and how analysts use them.
+- **Organizing and protecting your data:** Good organization skills are a big part of most types of work, and data analytics is no different. 
+  1. the best practices for organizing data and keeping it secure.
+  2. how analysts use file naming conventions to help them keep their work organized.
+- **Engaging in the data community (optional):** Having a strong online presence can be a big help for job seekers of all kinds.
+  1. explore how to manage your online presence.
+  2. discover the benefits of networking with other data analytics professionals.
+- **Completing the Course Challenge:** At the end of this course, you will be able to apply what you have learned in the Course Challenge.
+  1. key concepts and then will give you an opportunity to put them into practice as you go through two scenarios.
 
