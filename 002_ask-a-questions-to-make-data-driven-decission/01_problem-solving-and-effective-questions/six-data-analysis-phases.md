@@ -73,6 +73,7 @@ Everyone shares their results differently so be sure to summarize your results w
 4. Successfully communicate your findings
 
 <br />
+
 **Questions to ask yourself in this step:**
 
 - How can I make what I present to the stakeholders engaging and easy to understand?
@@ -82,6 +83,7 @@ Everyone shares their results differently so be sure to summarize your results w
 
 ## ACT
 <br/>
+
 **Questions to ask yourself in this step:**
 
 - How can I use the feedback I received during the share phase (step 5) to actually meet the stakeholder’s needs and expectations?
