@@ -4,7 +4,9 @@
 - In this process (Structured thinking), you address a vague, complex problem by breaking it down into smaller steps, and then those steps lead you to a logical solution.
 
   <br/>
+  
   ## Take Action With Data
+  
   **Ex**
   - Gaming Repair company who want to expand his business.
     - advertising is a proven way to get more customers, but the owner was'nt sure ehere
