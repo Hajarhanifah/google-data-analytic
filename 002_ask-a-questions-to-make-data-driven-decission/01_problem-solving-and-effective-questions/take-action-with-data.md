@@ -43,12 +43,14 @@
         3. who our control group was,
         4. who our experiment group was,
         5. where were our data sources, and
-    - make sure that it was in a set, in a format that was clean and digestible for us to write the proper scripts for.
-    - process the data to make sure that it was in a format that we could actually analyze in SQL, making sure that was in the right format, in the right columns, and in the right tables for us
-    - analyze the data, wrote scripts in SQL and in R to correlate the data to the control group or the experiment group and interpret the data to understand, were there any changes in the behavioral indicators that we saw? 
-    - report on it in a way that our stakeholders could understand
+     - make sure that it was in a set, in a format that was clean and digestible for us to write the proper scripts for.
+     - process the data to make sure that it was in a format that we could actually analyze in SQL, making sure that was in the right
+       format, in the right columns, and in the right tables for us
+     - analyze the data, wrote scripts in SQL and in R to correlate the data to the control group or the experiment group and interpret the
+       data to understand, were there any changes in the behavioral indicators that we saw?
+     - report on it in a way that our stakeholders could understand
      1. we prepared reports,
      2. dashboards and presentations,
      3. shared that information out.
-    - Once all of our reports were complete, we saw really positive results and decided to act on it by continuing our project-based learning onboarding program.
+     - Once all of our reports were complete, we saw really positive results and decided to act on it by continuing our project-based learning onboarding program.
 
