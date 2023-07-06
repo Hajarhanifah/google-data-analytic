@@ -38,17 +38,17 @@
      - ask the question, how do we know whether or not Nooglers are onboarding faster through our new onboarding program than our old onboarding program where we used to lecture them.
      - worked really closely with the content providers to understand just exactly what does it mean to onboard someone faster?
      - prepared the data by understanding who was the population of the new hires that we were examining
-      - prepared data by going through and understanding who populations were,
-      - understanding who the sample set was,
-      - who our control group was,
-      - who our experiment group was,
-      - where were our data sources, and
+        1. prepared data by going through and understanding who populations were,
+        2. understanding who the sample set was,
+        3. who our control group was,
+        4. who our experiment group was,
+        5. where were our data sources, and
     - make sure that it was in a set, in a format that was clean and digestible for us to write the proper scripts for.
     - process the data to make sure that it was in a format that we could actually analyze in SQL, making sure that was in the right format, in the right columns, and in the right tables for us
     - analyze the data, wrote scripts in SQL and in R to correlate the data to the control group or the experiment group and interpret the data to understand, were there any changes in the behavioral indicators that we saw? 
     - report on it in a way that our stakeholders could understand
-      - we prepared reports,
-      - dashboards and presentations,
-      - shared that information out.
+     1. we prepared reports,
+     2. dashboards and presentations,
+     3. shared that information out.
     - Once all of our reports were complete, we saw really positive results and decided to act on it by continuing our project-based learning onboarding program.
 
