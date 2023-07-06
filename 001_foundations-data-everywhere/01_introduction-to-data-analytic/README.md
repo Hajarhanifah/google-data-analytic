@@ -1,22 +1,19 @@
 Organizations of all kinds need data analysts to help them improve their processes, identify opportunities and trends, launch new products, provide great customer service, and make thoughtful decisions.
 
-## Data
-- Data is a collection of facts.
-- This collection can include numbers, pictures, videos, words, measurements, observations, and more.
-- Once you have data, analytics puts it to work through analysis.
-- Data evolves over time which means this analysis or analytics, as we call it, can give us new information throughout data's entire life cycle.
-- Data is everywhere. 
+## Foundations
+**1. Introducing data analytics:** Data helps us make decisions, in everyday life and in business. In this first part of the course, you will learn how data analysts use tools of their trade to inform those decisions. You will also get to know more about this course and the overall program expectations.
 
-**Data Analysis :** the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making.
+**2. Thinking analytically:** Data analysts balance many different roles in their work. In this part of the course, you will learn about some of these roles and the key skills that are required. You will also explore analytical thinking and how it relates to data-driven decision making.
 
-**_What exactly does a data analyst do?_**
-> collects, transforms, and organizes data in order to help make informed decisions.
+**3. Exploring the wonderful world of data:** Data has its own life cycle, and data analysts use an analysis process that cuts across and leverages this life cycle. In this part of the course, you will learn about the data life cycle and data analysis process. They are both relevant to your work in this program and on the job as a future data analyst. You will be introduced to applications that help guide data through the data analysis process.
 
-**Data Analysis Lifecycle**
- 1. Ask
- 2. Prepare
- 3. Process
- 4. Analyze
- 5. Share
- 6. Act.
+**4. Setting up a data toolbox:** Spreadsheets, query languages, and data visualization tools are all a big part of a data analyst’s job. In this part of the course, you will learn the basic concepts to use them for data analysis. You will understand how they work through examples provided.
+
+**5. Discovering data career possibilities:** All kinds of businesses value the work that data analysts do. In this part of the course, you will examine different types of businesses and the jobs and tasks that analysts do for them. You will also learn how a Google Data Analytics Certificate will help you meet many of the requirements for a position with these organizations.
+
+**6. Completing the Course Challenge:** At the end of this course, you will be able to put everything you have learned into perspective with the Course Challenge. The Course Challenge will ask you questions about the main concepts you have learned and then give you an opportunity to apply those concepts in two scenarios.
+
+
+
+
 
