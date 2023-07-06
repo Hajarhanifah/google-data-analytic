@@ -6,4 +6,6 @@
 6. A function is a preset command, whereas a formula is **a set of instructions used to perform a specified calculation**
 7. **Query** used to request information within a database
 8. SQL enables data analysts to
-- request- update- retrieve
+- request
+- update
+- retrieve
