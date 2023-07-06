@@ -1,12 +1,14 @@
 ## A
 - **Analytical skills:** Qualities and characteristics associated with using facts to solve problems 
 - **Analytical thinking:** The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+  
 <br/>
 ## C
 
 - **Context:** The condition in which something exists or happens
 <br/>
 ## D
+
 - **Data:** A collection of facts
 - **Data analysis:** The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
 - **Data analyst:** Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
