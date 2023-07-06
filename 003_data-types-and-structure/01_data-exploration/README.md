@@ -1,3 +1,5 @@
+## Foundations
+
 - **Understanding data types and structures:** We all generate lots of data in our daily lives.
   1. check out how we generate data and how analysts decide which data to collect for analysis.
   2. structured and unstructured data, data types, and data formats as you start thinking about how to prepare your data for exploration.
