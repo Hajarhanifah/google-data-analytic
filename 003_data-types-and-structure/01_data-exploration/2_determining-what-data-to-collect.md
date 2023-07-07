@@ -1,0 +1,18 @@
+- as a data analysis we'll need to decide what kind of data to collect and use for bit of a data dilemma
+- ex : what causing increased rush hour traffic in your city?
+-   - we'll need to know how the data will be collected --> use observations of traffic pattern to count the number of cars on city streets during particullar times
+    - the cars that getting backed up on specific street --> will bring us to data sources
+    - Collecting **first-party data** is typically the preferred method because you know exactly where it came from.
+    - **second-party data,** which is data collected by a group directly from its audience and then sold. (buy from an organization that's led traffic pattern studies in the city)
+    - **third-party data** or data collected from outside sources who did not collect it directly
+    - no matter what kind of data will be used, it needs to be inspected for **accuracy and trustworthiness**.
+    - selected data must be approved for use --> ex. financial data probably wouldn't be that helpfu
+    - Population refers to all possible data values in a certain data set --> in this case, population == cars in that area
+    - wee will need a sample for population --> analyze the traffic there / pull a random sample from all existing data
+    - A sample is a part of a population that is representative of the population
+    - Collect data sample abt a one spot in teh city and analyze the traffic
+    - make sure to select the right data types (dates of traffic records stored in a date format)
+    - determine the time frame for data collection --> you moght have to use historical data, which is data that already exists
+- data analyst == decide what data to use, and that means choosing the data that can help to find answers and solve problems and not getting distracted by other data
+-  In data analytics, a population refers to all possible data values in a certain data set
+- 
