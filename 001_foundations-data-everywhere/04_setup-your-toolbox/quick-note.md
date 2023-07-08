@@ -1,0 +1,3 @@
+- Data analysts use SQL in their work all the time.
+- Like when they need a large amount of data in seconds to help answer a quick business question.
+- 
