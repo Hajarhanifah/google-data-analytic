@@ -1,11 +1,11 @@
-1. A business decides what kind data it needs, how the data will be managed, and who will be responsible for doing it during the **plan** stage of the data lifecycle
-2. A data analyst has finished an analysis project that involved private company data. They erase the digital files in order to keep the information secure. This describe of **____** data lyfecycle. (not manage)
-3. A data analyst uses spreadsheet function to aggregate data. Then, they add a pivot table to show totals from least to greatest. This would happen durig **______** data lifecycle (not capture)
-4. The data life cycle has six stage, whereas data analysis has six **process steps**
-5. A company takes inshights provided by its data analytics team, validates them,, and finalizes a strategy. Then implement a plan to solve the original business problem. This describe **____** step of the data analysis process. (not process)
-6. A function is a preset command, whereas a formula is **a set of instructions used to perform a specified calculation**
-7. **Query** used to request information within a database
-8. SQL enables data analysts to
-- request
-- update
-- retrieve
+1. Abusiness decides what kind of data it needs, how the data will be managed, and who will be responsible for it during the **PLAN** stage of the data life cycle
+2. Shredding paper files and using data-ensure software would be actions taken by a data analyst in the **DESTROY** stage of the data lifecycle
+3. Using a formula to perform calculatons, creating a report from their data, and using spreadsheets to aggregate data would all be actions carried out in the **ANALYZE** stage of the data lifecycle
+4. Data analysis has six process steps whereas the data life cycle has six **STAGE**
+5. A company takes insights provided by its data analytics team, valides them, and finalized a strategy. Then they implemeny a plan to solve the original business problem. This describe **ACT** step of the data abalysis process
+6. Data analysis uses queries to analyze information within a database
+7. Structured Query Languages (SQL) enables data analysts to
+   - request
+   - retrieve
+   - update
+   information from database
